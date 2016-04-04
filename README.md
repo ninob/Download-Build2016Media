@@ -8,5 +8,5 @@ This script:
 * Makes sure no errors come up due to illegal file names
 * If you stop the script and restart in the middle, it will start where it left off 
 
-Based on a script by Vlad Cantrinescu.
+Based on a script by Vlad Cantrinescu, which is available at: 
 https://gallery.technet.microsoft.com/office/Script-to-Build-Session-022a5422#content
