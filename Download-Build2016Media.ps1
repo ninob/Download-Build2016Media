@@ -6,7 +6,7 @@ Downloads slides and audio/video from all presentations at Build 2016. User defi
 .PARAMETER SaveToDirectory    
 Path to save slides and videos, preferably short to avoid path length issues. Defaults to C:\Build16
 .PARAMETER VideoQuality
-Quality of videos (.mp4) to download: high, medium, low, or audio only (.mp3)
+Quality of videos (.mp4) to download: high, medium, low, or audio only (.mp3). Defaults to High
 .EXAMPLE
 PS C:\> .\Download-Build2016Artifacts.ps1 -SaveToDirectory "F:\Build16" -VideoQuality -High
 #>
